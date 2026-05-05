@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-# ⚙️ CI/CD Pipeline — React + AWS Deployment
+# CI/CD Pipeline — React + AWS Deployment
 
 **A production-grade GitHub Actions pipeline for automating build, test, lint, and cloud deployment of React applications.**
 
