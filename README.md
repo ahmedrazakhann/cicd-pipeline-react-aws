@@ -1,6 +1,6 @@
 <div>
 
-# CI/CD Pipeline — React + AWS Deployment
+# CI/CD Pipeline React + AWS Deployment
 
 **A production-grade GitHub Actions pipeline for automating build, test, lint, and cloud deployment of React applications.**
 
@@ -16,7 +16,7 @@
 
 ## Overview
 
-This repository provides a fully automated CI/CD pipeline built with GitHub Actions for React applications using Vite. It covers the complete delivery lifecycle — from code commit to cloud deployment — with zero manual intervention.
+This repository provides a fully automated CI/CD pipeline built with GitHub Actions for React applications using Vite. It covers the complete delivery lifecycle from code commit to cloud deployment with zero manual intervention.
 
 Designed for teams and engineers who want a reliable, repeatable, and professional deployment workflow without the overhead of complex DevOps tooling.
 
@@ -136,7 +136,7 @@ Most deployment pipelines are either too complex for small teams or too simple f
 
 ## Author
 
-**Ahmed Raza Khan** — Full-Stack Engineer · AWS Certified ML Associate
+**Ahmed Raza Khan** Full-Stack Engineer · AWS Certified ML Associate
 
 [theahmedraza.com](https://theahmedraza.com) · [LinkedIn](https://linkedin.com/in/ahmedrazakhannn) · [ahmed@theahmedraza.com](mailto:ahmed@theahmedraza.com)
 
